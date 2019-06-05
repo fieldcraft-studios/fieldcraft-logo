@@ -37,9 +37,9 @@ There’s no theme for ResourceSpace, the images and colours are applied via the
 * Font: Roboto
 * Application logo: `fieldcraft-resourcespace-application-logo.svg`
 * Application favicon: `output > favicon > favicon.svg`
-* Custom header background colour: Deep Blue `#060660`
-* Custom intro text, dash tile and simple search colour: Grey `#808B93`
-* Custom collection bar primary colour: Deep Blue `#060660`
-* Custom collection bar secondary colour: Grey `#808B93`
+* Custom header background colour: `Deep Blue #060660`
+* Custom intro text, dash tile and simple search colour: `Grey #808B93`
+* Custom collection bar primary colour: `Grey #808B93`
+* Custom collection bar secondary colour:  `Unofficial grey #676767`
 
 Customising the home page slideshow: images can be selected via `Admin > System > Manage Slideshow`.
