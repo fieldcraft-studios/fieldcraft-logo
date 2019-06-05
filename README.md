@@ -2,6 +2,8 @@
 
 SVG logomark, logotype and favicon. Used for ownCloud and ResourceSpace branding.
 
+Logos created in [Inkscape](https://inkscape.org), the open source SVG editor of choice.
+
 ## Colour
 
 ```
