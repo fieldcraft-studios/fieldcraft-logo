@@ -41,3 +41,5 @@ There’s no theme for ResourceSpace, the images and colours are applied via the
 : Custom intro text, dash tile and simple search colour: Grey `#808B93`
 * Custom collection bar primary colour: Deep Blue `#060660`
 * Custom collection bar secondary colour: Grey `#808B93`
+
+Customising the home page slideshow: images can be selected via `Admin > System > Manage Slideshow`.
