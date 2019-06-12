@@ -23,8 +23,8 @@ There is a Fieldcraft theme for ownCloud, called `theme-fieldcloud`, which is he
 
 It is based on [ownCloud’s example theme](https://github.com/owncloud/theme-example), with images and colours replaced. For more information on ownCloud theming, <https://doc.owncloud.com/server/developer_manual/core/theming.html>
 
-The theme should be placed in the `apps` directory, which is in a Docker volume:  
-`/var/lib/docker/volumes/owncloud_files/_data/apps`
+The theme should be placed in the `apps` directory, which is in a Docker volume (use `wget` to download [zip file](https://github.com/fieldcraft-studios/fieldcraft-logo/archive/master.zip) into directory):  
+`/share/CACHEDEV2_DATA/home/owncloud/volumes/files/apps`
 
 The theme is activated from ownCloud `Settings > Admin > Apps`. Make sure to click `Show disabled apps` to be able to see it.
 
